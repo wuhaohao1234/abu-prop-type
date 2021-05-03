@@ -1,0 +1,23 @@
+{
+  "name": "abu-prop-type",
+  "version": "1.0.0",
+  "bin": {
+    "abu-prop": "./bin/index.js"
+  },
+  "description": "> 将react的prop文件转为.d.ts声明文件",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/abu-prop-type.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/abu-prop-type/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/abu-prop-type#readme"
+}
