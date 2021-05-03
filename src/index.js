@@ -1,4 +1,4 @@
-function sum(a, b) {
-  return a + b
+const conversion = (propStr) => {
+  return propStr;
 }
-module.exports = sum;
+module.exports = conversion
