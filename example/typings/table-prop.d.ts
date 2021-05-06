@@ -1,7 +1,7 @@
 import React from 'react';
 export interface TableProps {
-    columns: Array<any>,
-    className: String,
+  columns: Array<any>,
+  className: String,
 }
 /**
  * @param {Array<any>} columns 表头配置信息

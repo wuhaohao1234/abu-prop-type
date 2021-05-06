@@ -7,7 +7,7 @@
   "description": "> 将react的prop文件转为.d.ts声明文件",
   "main": "dist/index.js",
   "scripts": {
-    "test": "npx jest --watchAll"
+    "test": "npx jest test/parse.test.js --watchAll"
   },
   "repository": {
     "type": "git",
